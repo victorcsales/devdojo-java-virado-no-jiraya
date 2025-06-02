@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao;
+package academy.devdojo.maratonajava.introducao.tipos;
 
 /**
  * Isso é um comentario <b>javadoc</>

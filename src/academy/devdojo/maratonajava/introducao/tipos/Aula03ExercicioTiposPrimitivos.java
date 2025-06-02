@@ -1,6 +1,4 @@
-package academy.devdojo.maratonajava.introducao;
-
-import javax.xml.crypto.Data;
+package academy.devdojo.maratonajava.introducao.tipos;
 
 public class Aula03ExercicioTiposPrimitivos {
     public static void main(String[] args) {
