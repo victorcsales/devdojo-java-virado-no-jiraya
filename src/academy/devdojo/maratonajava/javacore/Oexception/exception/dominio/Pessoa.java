@@ -1,6 +1,5 @@
-package academy.devdojo.maratonajava.javacore.Oexcption.exception.dominio;
+package academy.devdojo.maratonajava.javacore.Oexception.exception.dominio;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class Pessoa {

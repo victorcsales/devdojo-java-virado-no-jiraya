@@ -1,6 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Oexcption.runtime.teste;
-
-import com.sun.source.tree.BreakTree;
+package academy.devdojo.maratonajava.javacore.Oexception.runtime.teste;
 
 public class RuntimeExcptionTeste03 {
     public static void main(String[] args) {

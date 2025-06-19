@@ -1,7 +1,7 @@
-package academy.devdojo.maratonajava.javacore.Oexcption.exception.teste;
+package academy.devdojo.maratonajava.javacore.Oexception.exception.teste;
 
-import academy.devdojo.maratonajava.javacore.Oexcption.exception.dominio.Leitor1;
-import academy.devdojo.maratonajava.javacore.Oexcption.exception.dominio.Leitor2;
+import academy.devdojo.maratonajava.javacore.Oexception.exception.dominio.Leitor1;
+import academy.devdojo.maratonajava.javacore.Oexception.exception.dominio.Leitor2;
 
 import java.io.*;
 
